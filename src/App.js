@@ -32,3 +32,7 @@ function App() {
 }
 
 export default App;
+
+
+//starting react app : npm run start
+//starting json server : npx json-server --watch data/db.json --port 8000
